@@ -9,7 +9,7 @@ demo : https://youtu.be/HquphMXJya0
 
 
 requirement
-'''
+```
 1. xampp 
 2. watir
 3. pry
@@ -17,4 +17,4 @@ requirement
 5. awesome_print
 6. watir-scroll
 7. mysql2
-'''
+```
